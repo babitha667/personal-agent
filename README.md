@@ -1,3 +1,3 @@
 # personal-agent
 
-[Architecture](./personal_agent_architecture.png)
+![Architecture](./personal_agent_architecture.png)
