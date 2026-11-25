@@ -1,0 +1,72 @@
+Messages are saved to the inbox and processed in order.
+Action controller running (polls due actions every second).
+You: Hey there!
+
+Agent: 👍 ACK
+You: 
+Agent: Hey! How can I help you today?
+
+You: Doing good
+
+Agent: 👍 ACK
+You: 
+Agent: Glad to hear it! Anything you'd like me to take care of?
+
+You: Can you remind me after 3 minutes to drink water?
+
+Agent: 👍 ACK
+You: 
+Agent: Got it! I'll remind you in about 3 minutes to drink water. 💧
+
+You: Also one more reminded to eat after 5 minutes
+
+Agent: 👍 ACK
+You: 
+Agent: Got it — I'll remind you to eat in 5 minutes (around 1:14 AM).
+
+You: 
+Agent: 💧 Time to drink water! Take a short break and hydrate.
+
+Agent: ⏰ Reminder: time to eat! 🍽️ Take a few minutes to grab something — your body will thank you.
+
+You: Can you also remind me to do my skincare in about 4 minutes?
+
+Agent: 👍 ACK
+You: 
+Agent: Got it — I'll remind you to do your skincare in about 4 minutes.
+
+You: I like to use the cosrx facewash
+
+Agent: 👍 ACK
+You: 
+Agent: Noted — COSRX face wash for your skincare routine. I'll bring it up when your skincare reminder comes through. 🧴
+
+You: Also reschedule my reminer to 1 minute from now
+
+Agent: 👍 ACK
+You: 
+Agent: Done — I've moved your skincare reminder to 1 minute from now. 🧴
+
+Agent: Time for your skincare routine! 🧴
+
+You: which skincare do i use?
+
+Agent: 👍 ACK
+You: 
+Agent: You use COSRX face wash in your skincare routine. 🧴
+
+You: Also can you make sure to remember that i dont eat prawns, i have severe allergy
+
+Agent: 👍 ACK
+You: 
+Agent: Noted and remembered — you don't eat prawns and have a severe allergy. I'll keep that in mind for any food suggestions, recipes, reminders, or orders, and avoid prawns entirely. Since it's a severe allergy, do also make sure it's clearly noted for anyone who cooks for or serves you.
+
+You: I am going to eat outside today, please remind me to get ready at 1:22AM IST today   D
+
+Agent: 👍 ACK
+You: 
+Agent: Got it — I'll remind you at 1:22 AM IST to get ready to head out for your meal. 🍽️
+
+Agent: ⏰ Reminder: Time to get ready — you're eating outside today! Have a great meal (and remember to avoid prawns). 😊
+^C
+Goodbye!
